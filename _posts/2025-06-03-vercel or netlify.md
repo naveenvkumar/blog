@@ -7,6 +7,7 @@ tags: [serverless, hosting, comparision]
 image: assets/images/vercel_netlify.jpg
 description: "My review of comparision of Vercel and Netlify services for static site hosting."
 featured: true
+hidden: true
 ---
 
 Vercel and Netlify are popular platforms for deploying web applications, but they cater to different needs. Vercel excels in dynamic content and SEO, particularly with Next.js, offering features like server-side rendering (SSR) and image optimization. Netlify is more general-purpose, focusing on static sites and offering a wider range of features like form handling, identity management, and A/B testing.
