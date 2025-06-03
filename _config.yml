@@ -13,6 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
+  Naveen:
+    name: Naveen
+    display_name: Naveen
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    email: naven@github.com
+    web: https://www.naveen.in
+    twitter: https://twitter.com/naveenkumarv
+    description: "Freelance developer. Expert in Open Source Forums, WordPress, and web development. Passionate about coding and sharing knowledge through blogging."
   sal:
     name: Sal
     display_name: Sal
